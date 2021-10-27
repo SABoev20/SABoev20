@@ -1,4 +1,9 @@
-### Hey 👋 I'm [Simeon Boev]! 🌎🛰️
+### Hey 👋 I'm Simeon Boev! 🌎🛰️
+<img src="https://avatars.githubusercontent.com/u/52601134?s=64&amp;v=4" alt="@codingburgas" size="32" height="32" width="32" data-view-component="true" class="avatar">
+
+
+<br>
+<br>
 
  ### About me:
  
@@ -8,8 +13,6 @@
 - ⚡ Fun fact: Humans are Carbon-based life form 🧬
 
 <br>
-
-<img src="https://avatars.githubusercontent.com/u/52601134?s=64&amp;v=4" alt="@codingburgas" size="32" height="32" width="32" data-view-component="true" class="avatar">
 
 
 <hr>
