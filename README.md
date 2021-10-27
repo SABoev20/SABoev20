@@ -1,13 +1,19 @@
 ### Hey 👋 I'm [Simeon Boev]! 🌎🛰️
 
-
+ ### About me:
+ 
 - ⭐ I’m currently working on my special repository :P
 - 💻 I’m currently learning C++ , HTML5 & CSS3 
 - 📡 How to reach me: SABoev20@codingburgas.bg 
 - ⚡ Fun fact: Humans are Carbon-based life form 🧬
 
-<hr>
+<br>
 
+<img src="https://avatars.githubusercontent.com/u/52601134?s=64&amp;v=4" alt="@codingburgas" size="32" height="32" width="32" data-view-component="true" class="avatar">
+
+<br>
+
+<hr>
 
 ### Connect with me:
 
@@ -29,9 +35,5 @@
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
   
   <hr>
-  
-  ### About me:
-  
-  <img src="https://avatars.githubusercontent.com/u/52601134?s=64&amp;v=4" alt="@codingburgas" size="32" height="32" width="32" data-view-component="true" class="avatar">
   
   
