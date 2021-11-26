@@ -4,7 +4,7 @@
 
 
 - ⭐ I’m currently working on my special repository :P
-- 💻 I’m currently learning C++ , HTML5 & CSS3 
+- 💻 I’m currently learning C++ and Python
 - 📡 How to reach me: SABoev20@codingburgas.bg 
 
 <br>
