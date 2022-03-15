@@ -5,7 +5,7 @@
 
 - ⭐ I’m currently working on my special repository :P
 - 💻 I’m currently learning C++ and Python
-- 📡 How to reach me: SABoev20@codingburgas.bg 
+- 📡 How to reach me: https://github.com/SABoev20/
 
 <br>
 
