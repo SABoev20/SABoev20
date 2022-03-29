@@ -1,6 +1,10 @@
-### Hey 👋 I'm Simeon Boev! 🌎🛰️
-<img src="https://avatars.githubusercontent.com/u/52601134?s=64&amp;v=4" alt="@codingburgas" size="32" height="32" width="32" data-view-component="true" class="avatar">
+<h1> Hey 👋 I'm Simeon Boev!🌎🛰️</h1> <img src="https://avatars.githubusercontent.com/u/52601134?s=64&amp;v=4" alt="@codingburgas" size="32" height="32" width="32" data-view-component="true" class="avatar">
 
+<br>
+
+![gif](https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif)
+
+<br>
 
 
 - ⭐ I’m currently working on my special repository :P
