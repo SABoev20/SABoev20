@@ -4,7 +4,6 @@
 <img align = "right" height = "250px" src = "https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
 <br>
-<br>
 
 - ⭐ I’m currently working on my special repository :P
 - 🎓 I'm studying coding at VSCPI.
@@ -19,7 +18,7 @@
 <hr>
   
   <a href="https://github.com/saboev20/github-readme-stats"><img alt="Simeon Boev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saboev20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <img alt="Simeon Boev's Activity Graph" src="https://camo.githubusercontent.com/a0af74ea3789cf44aae637a1080da9bd24edb156688ed33997de50b0ff1a2b7e/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d5379736f6c616b6f7632302662675f636f6c6f723d30443131313726636f6c6f723d354243444543266c696e653d35424344454326706f696e743d46464646464626686964655f626f726465723d74727565" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=Sysolakov20&amp;bg_color=0D1117&amp;color=5BCDEC&amp;line=5BCDEC&amp;point=FFFFFF&amp;hide_border=true" style="max-width: 100%;">
+  <img alt="Simeon Boev's Activity Graph" 
 
  ### Languages and Tools:
 
