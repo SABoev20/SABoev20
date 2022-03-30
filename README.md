@@ -4,6 +4,7 @@
 <img align = "right" height = "250px" src = "https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
 
 <br>
+<br>
 
 - ⭐ I’m currently working on my special repository :P
 - 🎓 I'm studying coding at VSCPI.
@@ -18,7 +19,6 @@
 <hr>
   
   <a href="https://github.com/saboev20/github-readme-stats"><img alt="Simeon Boev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saboev20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <img alt="Simeon Boev's Activity Graph" 
 
  ### Languages and Tools:
 
