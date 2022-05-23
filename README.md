@@ -9,7 +9,7 @@
 - ⭐ I’m currently working on my special repository :P
 - 🎓 I'm studying coding at VSCPI.
 - 💻 I’m currently learning C++ and Python
-- 🔭 I'm interested in Space & quantum physics and I love science <!-- England is my city -->
+- 🔭 You can find my last project here: https://github.com/SYSolakov20/onsens <!-- Im very proud of it LOL... -->
 - 📡 How to reach me: https://github.com/SABoev20/ <!-- just kidding :P -->
 <!-- And I love trolling people and leaving eastereggs -->
 
