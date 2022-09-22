@@ -37,7 +37,7 @@
   ### Connect with me:
 <p align = "left">
 <a href ="http://www.youtube.com" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
-<a href ="https://discord.com/"><img align="left" alt="codeSTACKr | Discord" width="22px" src="https://github.com/SABoev20/SABoev20/blob/main/Discord%20Black%20logo.png" /><a/>
+<a href ="https://discord.com/"><img align="left" alt="codeSTACKr | Discord" width="22px" src="https://i.pinimg.com/564x/bf/89/ed/bf89ed13a7aa79123efbb9d81cc9113e.jpg" /><a/>
 <img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </p>
