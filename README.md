@@ -23,13 +23,13 @@
  ### Languages and Tools:
 
 
-<code><img alt="CPP" width="36px" src="https://github.com/SABoev20/SABoev20/blob/main/306px-ISO_C%2B%2B_Logo.svg.png" ></code>
-<code><img alt="PY" width="37px" src="https://github.com/SABoev20/SABoev20/blob/main/267_Python-512.webp" ></code>
-<code><img alt="JS" width="39px" src="https://github.com/SABoev20/SABoev20/blob/main/JS%20icon.png" ></code>
-<code><img alt="HTML5" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
-<code><img alt="CSS3" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
-<code><img alt="Visual Studio Code" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img  alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
+<code><img alt="CPP" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022573176993099846/icons8-c-50.png" ></code>
+<code><img alt="PY" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022573363778035792/icons8-python-50.png" ></code>
+<code><img alt="JS" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022573269594951800/icons8-javascript-50.png" ></code>
+<code><img alt="Figma" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022575159867084820/icons8-figma-50.png" ></code>
+<code><img alt="VS Code" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022573737092055100/icons8-visual-studio-50.png"></code>
+<code><img alt="Git" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022575410770350110/icons8-git-50.png" ></code>
+<code><img  alt="GitHub" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022574844778397826/icons8-github-50.png" ></code>
   
  <hr>
 
