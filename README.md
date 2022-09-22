@@ -1,7 +1,7 @@
 <h1> Hey 👋 I'm Simeon Boev!🌎🛰️</h1> 
 
 
-<img align = "right" src = "https://i.pinimg.com/originals/06/bd/f8/06bdf8ad69ff62062ae7dceb250d8866.gif">
+<img align = "right" width="160" height="100" src = "https://i.pinimg.com/originals/06/bd/f8/06bdf8ad69ff62062ae7dceb250d8866.gif">
 
 <br>
 <br>
@@ -9,6 +9,7 @@
 - ⭐ I’m currently working on my special repository :P
 - 🎓 I'm studying coding at VSCPI.
 - 💻 I’m currently learning C++ and Python
+- <img src="https://i.pinimg.com/originals/bc/88/90/bc8890d9250b6d15df0543c9b3c86527.gif" width = "100px">
 - 🔭 You can find my last project here: https://github.com/SYSolakov20/onsens <!-- Im very proud of it LOL... -->
 - 📡 How to reach me: https://github.com/SABoev20/ <!-- just kidding :P -->
 <!-- And I love trolling people and leaving eastereggs -->
