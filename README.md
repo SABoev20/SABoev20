@@ -1,7 +1,7 @@
 <h1> Hey 👋 I'm Simeon Boev!🌎🛰️</h1> 
 
 
-<img align = "right" height = "250px" src = "https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
+<img align = "right" src = "https://i.pinimg.com/originals/06/bd/f8/06bdf8ad69ff62062ae7dceb250d8866.gif">
 
 <br>
 <br>
@@ -37,7 +37,7 @@
   ### Connect with me:
 <p align = "left">
 <a href ="http://www.youtube.com" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
-<a href ="https://discord.com/"><img align="left" alt="codeSTACKr | Discord" width="22px" src="https://i.pinimg.com/564x/bf/89/ed/bf89ed13a7aa79123efbb9d81cc9113e.jpg" /><a/>
+<a href ="https://discord.com/"><img align="left" alt="Discord" width="22px" src="https://media.discordapp.net/attachments/895715530588172288/1022576073331986552/icons8-discord-50.png" /><a/>
 <img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </p>
