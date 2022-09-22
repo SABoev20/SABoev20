@@ -1,7 +1,7 @@
 <h1> <img align="left" width="50px" height="50px" src="https://media.discordapp.net/attachments/895715530588172288/1022599829328773130/668956fd1bbe41707a7f8d93bc65ce29.gif">🛰️ Hey 🌎 I'm Simeon Boev, </h1> 
 
 
-<img width="420px" align = "right" src="https://media.discordapp.net/attachments/895715530588172288/1022598684715798538/0d41202083aef7f6798585ade0e35f7a.gif">
+<img width="400px" align = "right" src="https://media.discordapp.net/attachments/895715530588172288/1022598684715798538/0d41202083aef7f6798585ade0e35f7a.gif">
 
 
 <h3>I'm a student who loves science and programming.</h3>
