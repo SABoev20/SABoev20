@@ -40,6 +40,7 @@
 <code><img alt="CPP" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022573176993099846/icons8-c-50.png" ></code>
 <code><img alt="PY" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022573363778035792/icons8-python-50.png" ></code>
 <code><img alt="JS" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022573269594951800/icons8-javascript-50.png" ></code>
+<code><img alt="Swift" width="40px" src="https://cdn.discordapp.com/attachments/1037405708381061243/1077838520036634624/icons8-swift-50.png" ></code>
 <code><img alt="Figma" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022575159867084820/icons8-figma-50.png" ></code>
 <code><img alt="VS Code" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022573737092055100/icons8-visual-studio-50.png"></code>
 <code><img alt="Git" width="40px" src="https://media.discordapp.net/attachments/895715530588172288/1022575410770350110/icons8-git-50.png" ></code>
