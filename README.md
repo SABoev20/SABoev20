@@ -16,7 +16,7 @@
 - 🎓 I'm studying coding at VSCPI.
 - 💻 I’m currently learning C++ and Python
 - <img align="left" width="20px" height="20px" src="https://media1.giphy.com/media/3ohhwjCvlkO6qGX6Ra/giphy.gif?cid=ecf05e47xbuybqpbhpf0lcfzs0sakk3uvppv6983qih4zn7j&rid=giphy.gif&ct=s"> -Interesting Fact: My pfp is A.I. generated
-- 🔭 You can find my last project <a href="https://github.com/SYSolakov20/onsens">here</a>.  <!-- Im very proud of it LOL... -->
+- 🔭 You can find my last project <a href="https://github.com/ZYPetkova20/Neos">here</a>.  <!-- Im very proud of it LOL... -->
 - 📡 How to reach me: https://github.com/SABoev20/ <!-- just kidding :P -->
 <!-- And I love trolling people and leaving eastereggs -->
 
