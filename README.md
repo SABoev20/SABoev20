@@ -1,4 +1,4 @@
-<h1 align = "left">Hi, My name is Zhivko Spasov : )</h1>
+<h1 align = "left">Hi, My name is Simeon Boev :)</h1>
 I am currently a student at <a style = "text-decoration: none;"  href="https://github.com/codingburgas">@codingburgas</a> 🎓, where I am studying programming. I have a passion for exploring new technologies and leveraging them to address real-world challenges 👨🏻‍💻. At present, I am deeply engaged in becoming full-stack web developer. My main languages are Java and Javascript.
 
 ### Talking about Personal Stuffs:
