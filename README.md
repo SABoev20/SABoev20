@@ -4,7 +4,7 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 ### Talking about Personal Stuffs:
 - ✨ &nbsp; Favourite language: Java
 - 🙂 &nbsp; Fun fact: Love to yap
-- 📫 &nbsp; Get in touch with me: ZZSpasov20.codingburgas.bg
+- 📫 &nbsp; Get in touch with me: SABoev20.codingburgas.bg
 
 ### Languages
 <code><img height="27" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></code>
