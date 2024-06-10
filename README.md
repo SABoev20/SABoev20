@@ -73,11 +73,14 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
   <br>
 
   
-[![Orbitr](https://github-readme-stats.vercel.app/api/pin/?username=saboev20&repo=Orbitr-)](https://github.com/SABoev20/Orbitr-) 
+[![Orbitr](https://github-readme-stats.vercel.app/api/pin/?username=saboev20&repo=Orbitr)](https://github.com/SABoev20/Orbitr-) 
+<br>
 [![Neos](https://github-readme-stats.vercel.app/api/pin/?username=zypetkova20&repo=Neos)](https://github.com/ZYPetkova20/Neos) 
 <br>
 [![B11](https://github-readme-stats.vercel.app/api/pin/?username=sysolakov20&repo=b11)](https://github.com/SYSolakov20/B11)
+<br>
 [![Onsens](https://github-readme-stats.vercel.app/api/pin/?username=sysolakov20&repo=onsens)](https://github.com/SYSolakov20/onsens)
+<br>
 [![PGKPI-Theme](https://github-readme-stats.vercel.app/api/pin/?username=sysolakov20&repo=PGKPI-Theme)](https://github.com/SYSolakov20/PGKPI-Theme)
 
 </details>
