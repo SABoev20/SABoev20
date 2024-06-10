@@ -5,7 +5,7 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 [<img alt="alt_text" width="180px" src="assets/button.png" />](https://www.google.com/)
 
 ### Personal Stuff:
-- ✨ &nbsp; My Favourite language: Java
+- ✨ &nbsp; My current project: https://github.com/codingburgas/2324-pp-11g-individual-assignment-SABoev20
 - 🙂 &nbsp; Fun fact: The code for NASA’s Mars rovers is written in C++ to handle the harsh environment of space efficiently!
 - 📫 &nbsp; Get in touch with me: SABoev20.codingburgas.bg
 
@@ -45,35 +45,41 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 ### Badges and Repositories
 <details>
   <summary>📊 Github stats</summary>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=zzspasov20&show_icons=true&theme=tokyonight"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=saboev20&show_icons=true&theme=tokyonight"/></a>
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzspasov20&layout=compact&theme=tokyonight"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saboev20&layout=compact&theme=tokyonight"/></a>
   
 </details>
 <details open>
 <summary>🔰 Badges</summary>
 
-<a href = "https://www.credly.com/badges/c012e9e0-73b3-49f6-92da-11cce37afcfa/public_url"><img src = "https://images.credly.com/size/340x340/images/86bff777-939c-42c5-9a09-44b9bf635eba/_ITS-Badges-Cloud-Comput.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/488f41e1-05a4-40dc-8898-1539495f7de9/public_url"><img src = "https://images.credly.com/size/340x340/images/2210b6fe-0eda-415a-8aba-6c1400566728/ITS-Badges_Java_1200px.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/63ec9df7-e135-47b7-a82a-3b701fff2a46/public_url"><img src = "https://images.credly.com/size/340x340/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/4de67fb5-335a-42b0-86f3-c6a180ace4e5/public_url"><img src = "https://images.credly.com/size/340x340/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/e21538fe-c43c-4586-b7bd-253de9a57f49/public_url"><img src = "https://images.credly.com/size/340x340/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" width = "100px" height = "100px"></a>
-<a href = "https://www.credly.com/badges/488f41e1-05a4-40dc-8898-1539495f7de9/public_url"><img src = "https://images.credly.com/size/340x340/images/2210b6fe-0eda-415a-8aba-6c1400566728/ITS-Badges_Java_1200px.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/c012e9e0-73b3-49f6-92da-11cce37afcfa/public_url"><img src = "https://images.credly.com/size/340x340/images/86bff777-939c-42c5-9a09-44b9bf635eba/_ITS-Badges-Cloud-Comput.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/c012e9e0-73b3-49f6-92da-11cce37afcfa/public_url"><img src = "https://images.credly.com/size/680x680/images/6713c2e4-0562-4a4f-ad1b-27a0069491d8/ITS-Badges_Networking_1200px.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/96328348-1eb4-4c6f-9b14-65f504cfce4f/public_url"><img src = "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/2d46dcdb-fe3c-41e0-82e3-63913f4eeef0/public_url"><img src = "https://images.credly.com/size/340x340/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/827474e6-518c-44c3-9639-f14021d7c3ab/public_url"><img src = "https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/f9295bf8-6158-433a-a46d-60f310488a9b/public_url "><img src = "https://images.credly.com/size/680x680/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/ef55531d-5452-4464-964f-242882434fe2/public_url"><img src = "https://images.credly.com/size/340x340/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" width = "100px" height = "100px"></a>
-<a href = "https://www.credly.com/badges/63ec9df7-e135-47b7-a82a-3b701fff2a46/public_url"><img src = "https://images.credly.com/size/340x340/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/8fbee751-c736-452e-8a03-44b0745f6822/public_url"><img src = "https://images.credly.com/size/340x340/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/4f422709-7876-4c9f-b702-d2d0417627b7/public_url"><img src = "https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" width = "100px" height = "100px"></a>
 </details>
 
 <details>
   <summary>🗃️ Repositoires</summary>
-  
+  <br>
 
-[![Neos](https://github-readme-stats.vercel.app/api/pin/?username=zypetkova20&repo=Neos)](https://github.com/ZYPetkova20/Neos)
+  
+[![Orbitr](https://github-readme-stats.vercel.app/api/pin/?username=saboev20&repo=Orbitr-)](https://github.com/SABoev20/Orbitr-) 
+[![Neos](https://github-readme-stats.vercel.app/api/pin/?username=zypetkova20&repo=Neos)](https://github.com/ZYPetkova20/Neos) 
+<br>
+[![B11](https://github-readme-stats.vercel.app/api/pin/?username=sysolakov20&repo=b11)](https://github.com/SYSolakov20/B11)
 [![Onsens](https://github-readme-stats.vercel.app/api/pin/?username=sysolakov20&repo=onsens)](https://github.com/SYSolakov20/onsens)
-[![Historical-Geography-Project](https://github-readme-stats.vercel.app/api/pin/?username=zypetkova20&repo=Historical-Geography-Project)](https://github.com/ZYPetkova20/Historical-Geography-Project)
-[![AQUA-theFishers](https://github-readme-stats.vercel.app/api/pin/?username=SMPonchev18&repo=AQUA-theFishers)](https://github.com/SMPonchev18/AQUA-theFishers)
+[![PGKPI-Theme](https://github-readme-stats.vercel.app/api/pin/?username=sysolakov20&repo=PGKPI-Theme)](https://github.com/SYSolakov20/PGKPI-Theme)
+
 </details>
 
 <p align="center">
