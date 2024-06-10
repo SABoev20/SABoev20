@@ -1,8 +1,8 @@
-<h1 align = "left">Hi, My name is Simeon Boev :)</h1>
-
-
+<h1 align = "left">Hi, My name is Simeon Boev :) </h1> 
 
 I am currently a student at <a style = "text-decoration: none;"  href="https://github.com/codingburgas">@codingburgas</a> 🎓, where I am studying programming. I have a passion for learning new things and mastering new technologies. Right now, I am looking for a job to connect my passion for software development with a profesional career. My main languages are Java, C++ and Javascript.
+
+[<img alt="alt_text" width="180px" src="assets/button.png" />](https://www.google.com/)
 
 ### Personal Stuff:
 - ✨ &nbsp; My Favourite language: Java
