@@ -1,9 +1,12 @@
 <h1 align = "left">Hi, My name is Simeon Boev :)</h1>
-I am currently a student at <a style = "text-decoration: none;"  href="https://github.com/codingburgas">@codingburgas</a> 🎓, where I am studying programming. I have a passion for exploring new technologies and leveraging them to address real-world challenges 👨🏻‍💻. At present, I am deeply engaged in becoming full-stack web developer. My main languages are Java and Javascript.
 
-### Talking about Personal Stuffs:
-- ✨ &nbsp; Favourite language: Java
-- 🙂 &nbsp; Fun fact: Love to yap
+
+
+I am currently a student at <a style = "text-decoration: none;"  href="https://github.com/codingburgas">@codingburgas</a> 🎓, where I am studying programming. I have a passion for learning new things and mastering new technologies. Right now, I am looking for a job to connect my passion for software development with a profesional career. My main languages are Java, C++ and Javascript.
+
+### Personal Stuff:
+- ✨ &nbsp; My Favourite language: Java
+- 🙂 &nbsp; Fun fact: The code for NASA’s Mars rovers is written in C++ to handle the harsh environment of space efficiently!
 - 📫 &nbsp; Get in touch with me: SABoev20.codingburgas.bg
 
 ### Languages
@@ -72,3 +75,7 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 [![Historical-Geography-Project](https://github-readme-stats.vercel.app/api/pin/?username=zypetkova20&repo=Historical-Geography-Project)](https://github.com/ZYPetkova20/Historical-Geography-Project)
 [![AQUA-theFishers](https://github-readme-stats.vercel.app/api/pin/?username=SMPonchev18&repo=AQUA-theFishers)](https://github.com/SMPonchev18/AQUA-theFishers)
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=12" width="1200px"/>
+</p>
