@@ -1,29 +1,25 @@
 <h1 align = "left">Hi, My name is Simeon Boev :) </h1> 
 
-I am currently a student at <a style = "text-decoration: none;"  href="https://github.com/codingburgas">@codingburgas</a> 🎓, where I am studying programming. I have a passion for learning new things and mastering new technologies. Right now, I am looking for a job to connect my passion for software development with a profesional career. My main languages are Java, C++ and Javascript.
-
-[<img alt="alt_text" width="180px" src="assets/button.png" />](https://zzspasov20.github.io/SimeonBoevPortfolioHost/)
+I am currently a student at <a style = "text-decoration: none;"  href="https://github.com/codingburgas">@codingburgas</a> 🎓, where I am studying programming. I have a passion for learning new things and mastering new technologies. Right now, I am looking for a job to connect my passion for software development with a profesional career. My main languages are Java, C# and Javascript.
 
 ### Personal Stuff:
 - ✨ &nbsp; My current project: https://github.com/codingburgas/2324-pp-11g-individual-assignment-SABoev20
-- 🙂 &nbsp; Fun fact: The code for NASA’s Mars rovers is written in C++ to handle the harsh environment of space efficiently!
+- 🙂 &nbsp; Fun fact: C# was originally titled COOL, a clever acronym that stood for “C-like Object Oriented Language.
 - 📫 &nbsp; Get in touch with me: SABoev20.codingburgas.bg
 
 ### Languages
+<code><img height="27" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></code>
 <code><img height="27" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></code>
-<code><img height="27" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></code>
 <code><img height="27" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascipt"></code>
 <code><img height="27" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"></code>
 <code><img height="27" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></code>
 <code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></code>
 
 ### Frameworks and Libraries:
-<code><img height="27" src="https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"></code>
+<code><img height="27" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"></code>
 <code><img height="27" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></code>
 <code><img height="27" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate"></code>
-<code><img height="27" src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"></code>
 
-<code><img height="27" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white" alt="React"></code>
 <code><img height="27" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"></code>
 <code><img height="27" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></code>
 <code><img height="27" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></code>
@@ -31,24 +27,24 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 ### Technologies
 <code><img height="27" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></code>
 <code><img height="27" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"></code>
-<code><img height="27" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka"></code>
 <code><img height="27" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven"></code>
 <code><img height="27" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></code>
 <code><img height="27" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></code>
 
 ### Databases
+<code><img height="27" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL"></code>
 <code><img height="27" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></code>
 <code><img height="27" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRES"></code>
-<code><img height="27" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL"></code>
 
 
 
 ### Tools, Testing and Hosting
-<code><img height="27" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></code>
 <code><img height="27" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></code>
 <code><img height="27" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></code>
 <code><img height="27" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></code>
-<code><img height="27" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></code>
+
+
+<code><img height="27" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></code>
 <code><img height="27" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJIDEA"></code>
 <code><img height="27" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS CODE"></code>
 
