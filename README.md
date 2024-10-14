@@ -70,8 +70,8 @@ I am currently a student at <a style = "text-decoration: none;"  href="https://g
 <a href = "https://www.credly.com/badges/2d46dcdb-fe3c-41e0-82e3-63913f4eeef0/public_url"><img src = "https://images.credly.com/size/340x340/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/827474e6-518c-44c3-9639-f14021d7c3ab/public_url"><img src = "https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/f9295bf8-6158-433a-a46d-60f310488a9b/public_url "><img src = "https://images.credly.com/size/680x680/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" width = "100px" height = "100px"></a>
-<a href = "https://www.credly.com/badges/ef55531d-5452-4464-964f-242882434fe2/public_url"><img src = "https://images.credly.com/size/340x340/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/8fbee751-c736-452e-8a03-44b0745f6822/public_url"><img src = "https://images.credly.com/size/340x340/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/ef55531d-5452-4464-964f-242882434fe2/public_url"><img src = "https://images.credly.com/size/340x340/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/4f422709-7876-4c9f-b702-d2d0417627b7/public_url"><img src = "https://images.credly.com/size/340x340/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" width = "100px" height = "100px"></a>
 </details>
 
